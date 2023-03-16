@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectInfo>
+<Version val="3"/>
+<FixKeys val="1">
+<Fix1>
+<UIKey>
+<![CDATA[Project Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[PROJECTNAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix1>
+</FixKeys>
+<CustomKeys val="2">
+<Custom1>
+<UIKey>
+<![CDATA[CAD Drafter Responsible Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-3F27A8D0-6FBE-4EF8-A3AA-8C0D4D61DDAE]]>
+</DBKey>
+<value>
+<![CDATA[Karli Gyula Sámuel]]>
+</value>
+</Custom1>
+<Custom2>
+<UIKey>
+<![CDATA[OM]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-SITE-D1A8B19C-00D2-4D00-898E-C98BA30E26A8]]>
+</DBKey>
+<value>
+<![CDATA[203060/011]]>
+</value>
+</Custom2>
+</CustomKeys>
+</ProjectInfo>
