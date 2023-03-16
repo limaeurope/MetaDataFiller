@@ -1,12 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ProjectInfo>
  <Version val="3"/>
- <FixKeys val="1">
+ <FixKeys val="6">
   <Fix1>
    <UIKey><![CDATA[Project Name]]></UIKey>
    <DBKey><![CDATA[PROJECTNAME]]></DBKey>
    <value><![CDATA[<####>]]></value>
   </Fix1>
+  <Fix2>
+   <UIKey><![CDATA[Client Company]]></UIKey>
+   <DBKey><![CDATA[CLIENTCOMPANY]]></DBKey>
+   <value><![CDATA[]]></value>
+  </Fix2>
+  <Fix3>
+   <UIKey><![CDATA[Site Name]]></UIKey>
+   <DBKey><![CDATA[SITE_NAME]]></DBKey>
+   <value><![CDATA[Szolnoki SZC Jendrassik György Gépipari Technikum]]></value>
+  </Fix3>
+  <Fix4>
+   <UIKey><![CDATA[Site ID]]></UIKey>
+   <DBKey><![CDATA[SITE_ID]]></DBKey>
+   <value><![CDATA[203056/002-002-0]]></value>
+  </Fix4>
+  <Fix5>
+   <UIKey><![CDATA[Site Address1]]></UIKey>
+   <DBKey><![CDATA[SITEADDRESS1]]></DBKey>
+   <value><![CDATA[Baross utca 37.]]></value>
+  </Fix5>
+  <Fix6>
+   <UIKey><![CDATA[Site City]]></UIKey>
+   <DBKey><![CDATA[SITECITY]]></DBKey>
+   <value><![CDATA[Szolnok (5000)]]></value>
+  </Fix6>
  </FixKeys>
- <CustomKeys val="0"/>
+ <CustomKeys val="5">
+  <Custom1>
+   <UIKey><![CDATA[CAD Drafter Responsible Name]]></UIKey>
+   <DBKey><![CDATA[autotext-PROJECT-3F27A8D0-6FBE-4EF8-A3AA-8C0D4D61DDAE]]></DBKey>
+   <value><![CDATA[Visio Kft.]]></value>
+  </Custom1>
+  <Custom2>
+   <UIKey><![CDATA[CAD Drafter - Company Name]]></UIKey>
+   <DBKey><![CDATA[autotext-PROJECT-C179E160-3C5D-41A3-8125-1EEFD66B6BB7]]></DBKey>
+   <value><![CDATA[203056/002]]></value>
+  </Custom2>
+  <Custom3>
+   <UIKey><![CDATA[OM]]></UIKey>
+   <DBKey><![CDATA[autotext-SITE-D1A8B19C-00D2-4D00-898E-C98BA30E26A8]]></DBKey>
+   <value><![CDATA[Lima Design Kft.]]></value>
+  </Custom3>
+  <Custom4>
+   <UIKey><![CDATA[Survey Company Name]]></UIKey>
+   <DBKey><![CDATA[autotext-PROJECT-03B4AF22-C085-4499-9E7A-5E322E8489FE]]></DBKey>
+   <value><![CDATA[Lima Design Kft.]]></value>
+  </Custom4>
+  <Custom5>
+   <UIKey><![CDATA[Survey Responsible Name]]></UIKey>
+   <DBKey><![CDATA[autotext-PROJECT-61034D80-84F0-4A5A-BA73-ADF24B043268]]></DBKey>
+   <value><![CDATA[Dormán Bertalan]]></value>
+  </Custom5>
+ </CustomKeys>
 </ProjectInfo>

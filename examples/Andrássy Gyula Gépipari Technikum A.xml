@@ -1,0 +1,1900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectInfo>
+<Version val="3"/>
+<FixKeys val="78">
+<Fix1>
+<UIKey>
+<![CDATA[Project Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[PROJECTNAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix1>
+<Fix2>
+<UIKey>
+<![CDATA[Project Description]]>
+</UIKey>
+<DBKey>
+<![CDATA[PROJECT_DESCRIPTION]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix2>
+<Fix3>
+<UIKey>
+<![CDATA[Project ID]]>
+</UIKey>
+<DBKey>
+<![CDATA[PROJECT_ID]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix3>
+<Fix4>
+<UIKey>
+<![CDATA[Project Code]]>
+</UIKey>
+<DBKey>
+<![CDATA[PROJECT_CODE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix4>
+<Fix5>
+<UIKey>
+<![CDATA[Project Number]]>
+</UIKey>
+<DBKey>
+<![CDATA[PROJECTNUMBER]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix5>
+<Fix6>
+<UIKey>
+<![CDATA[Project Status]]>
+</UIKey>
+<DBKey>
+<![CDATA[PROJECTSTATUS]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix6>
+<Fix7>
+<UIKey>
+<![CDATA[Keywords]]>
+</UIKey>
+<DBKey>
+<![CDATA[KEYWORDS]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix7>
+<Fix8>
+<UIKey>
+<![CDATA[Notes]]>
+</UIKey>
+<DBKey>
+<![CDATA[NOTES]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix8>
+<Fix9>
+<UIKey>
+<![CDATA[Site Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITE_NAME]]>
+</DBKey>
+<value>
+<![CDATA[Miskolci SZC Andrássy Gyula Gépipari Technikum ]]>
+</value>
+</Fix9>
+<Fix10>
+<UIKey>
+<![CDATA[Site Description]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITE_DESCRIPTION]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix10>
+<Fix11>
+<UIKey>
+<![CDATA[Site ID]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITE_ID]]>
+</DBKey>
+<value>
+<![CDATA[203060/011-011-0 ]]>
+</value>
+</Fix11>
+<Fix12>
+<UIKey>
+<![CDATA[Site Full Address]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITEFULLADDRESS]]>
+</DBKey>
+<value>
+<![CDATA[Soltész Nagy Kálmán utca 10  Miskolc Magyarország]]>
+</value>
+</Fix12>
+<Fix13>
+<UIKey>
+<![CDATA[Site Address1]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITEADDRESS1]]>
+</DBKey>
+<value>
+<![CDATA[Soltész Nagy Kálmán utca 10 ]]>
+</value>
+</Fix13>
+<Fix14>
+<UIKey>
+<![CDATA[Site Address2]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITEADDRESS2]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix14>
+<Fix15>
+<UIKey>
+<![CDATA[Site Address3]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITEADDRESS3]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix15>
+<Fix16>
+<UIKey>
+<![CDATA[Site Postal Box]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITEPOSTBOX]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix16>
+<Fix17>
+<UIKey>
+<![CDATA[Site City]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITECITY]]>
+</DBKey>
+<value>
+<![CDATA[Miskolc]]>
+</value>
+</Fix17>
+<Fix18>
+<UIKey>
+<![CDATA[Site State]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITESTATE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix18>
+<Fix19>
+<UIKey>
+<![CDATA[Site Postcode]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITEPOSTCODE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix19>
+<Fix20>
+<UIKey>
+<![CDATA[Site Country]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITECOUNTRY]]>
+</DBKey>
+<value>
+<![CDATA[Magyarország]]>
+</value>
+</Fix20>
+<Fix21>
+<UIKey>
+<![CDATA[Site Gross Perimeter]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITEGROSSPERIMETER]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix21>
+<Fix22>
+<UIKey>
+<![CDATA[Site Gross Area]]>
+</UIKey>
+<DBKey>
+<![CDATA[SITEGROSSAREA]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix22>
+<Fix23>
+<UIKey>
+<![CDATA[Building Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[BUILDING_NAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix23>
+<Fix24>
+<UIKey>
+<![CDATA[Building Description]]>
+</UIKey>
+<DBKey>
+<![CDATA[BUILDING_DESCRIPTION]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix24>
+<Fix25>
+<UIKey>
+<![CDATA[Building ID]]>
+</UIKey>
+<DBKey>
+<![CDATA[BUILDING_ID]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix25>
+<Fix26>
+<UIKey>
+<![CDATA[Contact Full Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_FULLNAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix26>
+<Fix27>
+<UIKey>
+<![CDATA[Contact Prefix Title]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_PREFIXTITLE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix27>
+<Fix28>
+<UIKey>
+<![CDATA[Contact Given Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_GIVENNAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix28>
+<Fix29>
+<UIKey>
+<![CDATA[Contact Middle Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_MIDDLENAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix29>
+<Fix30>
+<UIKey>
+<![CDATA[Contact Family Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_FAMILYNAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix30>
+<Fix31>
+<UIKey>
+<![CDATA[Contact Suffix Title]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_SUFFIXTITLE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix31>
+<Fix32>
+<UIKey>
+<![CDATA[Contact Name Order]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_NAMEORDER]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix32>
+<Fix33>
+<UIKey>
+<![CDATA[Contact ID]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_ID]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix33>
+<Fix34>
+<UIKey>
+<![CDATA[Contact Role]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_ROLE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix34>
+<Fix35>
+<UIKey>
+<![CDATA[Contact Department]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_DEPARTMENT]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix35>
+<Fix36>
+<UIKey>
+<![CDATA[CAD Technician Full Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CAD_TECHNICIAN_FULLNAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix36>
+<Fix37>
+<UIKey>
+<![CDATA[CAD Technician Prefix Title]]>
+</UIKey>
+<DBKey>
+<![CDATA[CAD_TECHNICIAN_PREFIXTITLE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix37>
+<Fix38>
+<UIKey>
+<![CDATA[CAD Technician Given Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CAD_TECHNICIAN_GIVENNAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix38>
+<Fix39>
+<UIKey>
+<![CDATA[CAD Technician Middle Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CAD_TECHNICIAN_MIDDLENAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix39>
+<Fix40>
+<UIKey>
+<![CDATA[CAD Technician Family Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CAD_TECHNICIAN_FAMILYNAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix40>
+<Fix41>
+<UIKey>
+<![CDATA[CAD Technician Suffix Title]]>
+</UIKey>
+<DBKey>
+<![CDATA[CAD_TECHNICIAN_SUFFIXTITLE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix41>
+<Fix42>
+<UIKey>
+<![CDATA[CAD Technician Name Order]]>
+</UIKey>
+<DBKey>
+<![CDATA[CAD_TECHNICIAN_NAMEORDER]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix42>
+<Fix43>
+<UIKey>
+<![CDATA[Contact Company]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTCOMPANY]]>
+</DBKey>
+<value>
+<![CDATA[LIMA Design Kft.]]>
+</value>
+</Fix43>
+<Fix44>
+<UIKey>
+<![CDATA[Contact Company Code]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACT_COMPANYCODE]]>
+</DBKey>
+<value>
+<![CDATA[LIMA Design Kft.]]>
+</value>
+</Fix44>
+<Fix45>
+<UIKey>
+<![CDATA[Contact Full Address]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTFULLADDRESS]]>
+</DBKey>
+<value>
+<![CDATA[Bojtár utca 53. Budapest 1037 Magyarország]]>
+</value>
+</Fix45>
+<Fix46>
+<UIKey>
+<![CDATA[Contact Address1]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTADDRESS1]]>
+</DBKey>
+<value>
+<![CDATA[Bojtár utca 53.]]>
+</value>
+</Fix46>
+<Fix47>
+<UIKey>
+<![CDATA[Contact Address2]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTADDRESS2]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix47>
+<Fix48>
+<UIKey>
+<![CDATA[Contact Address3]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTADDRESS3]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix48>
+<Fix49>
+<UIKey>
+<![CDATA[Contact Postal Box]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTPOSTBOX]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix49>
+<Fix50>
+<UIKey>
+<![CDATA[Contact City]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTCITY]]>
+</DBKey>
+<value>
+<![CDATA[Budapest]]>
+</value>
+</Fix50>
+<Fix51>
+<UIKey>
+<![CDATA[Contact State]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTSTATE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix51>
+<Fix52>
+<UIKey>
+<![CDATA[Contact Postcode]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTPOSTCODE]]>
+</DBKey>
+<value>
+<![CDATA[1037]]>
+</value>
+</Fix52>
+<Fix53>
+<UIKey>
+<![CDATA[Contact Country]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTCOUNTRY]]>
+</DBKey>
+<value>
+<![CDATA[Magyarország]]>
+</value>
+</Fix53>
+<Fix54>
+<UIKey>
+<![CDATA[Contact E-mail]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTEMAIL]]>
+</DBKey>
+<value>
+<![CDATA[info@limaeurope.hu]]>
+</value>
+</Fix54>
+<Fix55>
+<UIKey>
+<![CDATA[Contact Phone Number]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTPHONE]]>
+</DBKey>
+<value>
+<![CDATA[+36-1/700-1919]]>
+</value>
+</Fix55>
+<Fix56>
+<UIKey>
+<![CDATA[Contact Fax]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTFAX]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix56>
+<Fix57>
+<UIKey>
+<![CDATA[Contact Web]]>
+</UIKey>
+<DBKey>
+<![CDATA[CONTACTWEB]]>
+</DBKey>
+<value>
+<![CDATA[http://limaeurope.com/]]>
+</value>
+</Fix57>
+<Fix58>
+<UIKey>
+<![CDATA[Client Full Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENT_FULLNAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix58>
+<Fix59>
+<UIKey>
+<![CDATA[Client Prefix Title]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENT_PREFIXTITLE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix59>
+<Fix60>
+<UIKey>
+<![CDATA[Client Given Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENT_GIVENNAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix60>
+<Fix61>
+<UIKey>
+<![CDATA[Client Middle Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENT_MIDDLENAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix61>
+<Fix62>
+<UIKey>
+<![CDATA[Client Family Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENT_FAMILYNAME]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix62>
+<Fix63>
+<UIKey>
+<![CDATA[Client Suffix Title]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENT_SUFFIXTITLE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix63>
+<Fix64>
+<UIKey>
+<![CDATA[Client Name Order]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENT_NAMEORDER]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix64>
+<Fix65>
+<UIKey>
+<![CDATA[Client Company]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTCOMPANY]]>
+</DBKey>
+<value>
+<![CDATA[SEFAG ERDÉSZETI ÉS FAIPARI ZRT.]]>
+</value>
+</Fix65>
+<Fix66>
+<UIKey>
+<![CDATA[Client Full Address]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTFULLADDRESS]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix66>
+<Fix67>
+<UIKey>
+<![CDATA[Client Address1]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTADDRESS1]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix67>
+<Fix68>
+<UIKey>
+<![CDATA[Client Address2]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTADDRESS2]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix68>
+<Fix69>
+<UIKey>
+<![CDATA[Client Address3]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTADDRESS3]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix69>
+<Fix70>
+<UIKey>
+<![CDATA[Client Postal Box]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTPOSTBOX]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix70>
+<Fix71>
+<UIKey>
+<![CDATA[Client City]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTCITY]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix71>
+<Fix72>
+<UIKey>
+<![CDATA[Client State]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTSTATE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix72>
+<Fix73>
+<UIKey>
+<![CDATA[Client Postcode]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTPOSTCODE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix73>
+<Fix74>
+<UIKey>
+<![CDATA[Client Country]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTCOUNTRY]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix74>
+<Fix75>
+<UIKey>
+<![CDATA[Client E-mail]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTEMAIL]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix75>
+<Fix76>
+<UIKey>
+<![CDATA[Client Phone Number]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTPHONE]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix76>
+<Fix77>
+<UIKey>
+<![CDATA[Client Fax]]>
+</UIKey>
+<DBKey>
+<![CDATA[CLIENTFAX]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix77>
+<Fix78>
+<UIKey>
+<![CDATA[EcoDesigner report header text]]>
+</UIKey>
+<DBKey>
+<![CDATA[EDREPORTHEADER]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Fix78>
+</FixKeys>
+<CustomKeys val="94">
+<Custom1>
+<UIKey>
+<![CDATA[Client Custom]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CLIENT-1]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom1>
+<Custom2>
+<UIKey>
+<![CDATA[Building Custom]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-1]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom2>
+<Custom3>
+<UIKey>
+<![CDATA[Project Custom]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-1]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom3>
+<Custom4>
+<UIKey>
+<![CDATA[Site Custom]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-SITE-1]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom4>
+<Custom5>
+<UIKey>
+<![CDATA[Contact Custom]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-ARCHITECT-1]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom5>
+<Custom6>
+<UIKey>
+<![CDATA[Általános felirat - járórács]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-677888CF-3D7F-48F9-8B7F-A7E2E0CB4B9C]]>
+</DBKey>
+<value>
+<![CDATA[járórács]]>
+</value>
+</Custom6>
+<Custom7>
+<UIKey>
+<![CDATA[Általános felirat - felvonó]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-75C6F615-EBA4-4762-B86F-9681C2A0F2BE]]>
+</DBKey>
+<value>
+<![CDATA[felvonó]]>
+</value>
+</Custom7>
+<Custom8>
+<UIKey>
+<![CDATA[Általános felirat - folyóka]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-2D983FEA-F86A-4C0E-B14D-648ED981EBFF]]>
+</DBKey>
+<value>
+<![CDATA[vízelvezető folyóka]]>
+</value>
+</Custom8>
+<Custom9>
+<UIKey>
+<![CDATA[Általános felirat - fali tűzcsapszekrény]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-0ED04CA4-F075-47BA-BC0D-0386CB491851]]>
+</DBKey>
+<value>
+<![CDATA[fali tűzcsapszekrény tömlővel]]>
+</value>
+</Custom9>
+<Custom10>
+<UIKey>
+<![CDATA[Általános felirat - kézi jelzésadó]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-AFDE2B78-A216-460E-ADCA-3604DAC108B4]]>
+</DBKey>
+<value>
+<![CDATA[tűzjelző kézi jelzésadó]]>
+</value>
+</Custom10>
+<Custom11>
+<UIKey>
+<![CDATA[Általános felirat - falikút]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-55B25ED8-A6C0-45FE-A2ED-24457A12DB05]]>
+</DBKey>
+<value>
+<![CDATA[tömlővéges légbeszívásos falikút]]>
+</value>
+</Custom11>
+<Custom12>
+<UIKey>
+<![CDATA[Általános felirat - padlóösszefolyó]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-C27C90CE-BD53-44E5-9E7C-93916FE7C28D]]>
+</DBKey>
+<value>
+<![CDATA[padlóösszefolyó]]>
+</value>
+</Custom12>
+<Custom13>
+<UIKey>
+<![CDATA[Általános felirat - tetőösszefolyó]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-0AE85749-540D-4792-A019-6F4503D922F6]]>
+</DBKey>
+<value>
+<![CDATA[tetőösszefolyó]]>
+</value>
+</Custom13>
+<Custom14>
+<UIKey>
+<![CDATA[Általános felirat - fal]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-E3F1A6DC-C0AC-4383-9E5D-C72C54DFDDA1]]>
+</DBKey>
+<value>
+<![CDATA[fal]]>
+</value>
+</Custom14>
+<Custom15>
+<UIKey>
+<![CDATA[Általános felirat -  tartószerkezeti fal]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-29F00F69-58DD-4859-B6CF-0C729D71DDA1]]>
+</DBKey>
+<value>
+<![CDATA[fal statikai tervek szerint]]>
+</value>
+</Custom15>
+<Custom16>
+<UIKey>
+<![CDATA[Általános felirat - gépészeti szellőzőrács]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-EE0ADED5-BC73-4921-8D55-AF14A3A422A2]]>
+</DBKey>
+<value>
+<![CDATA[gépészeti szellőzőrács]]>
+</value>
+</Custom16>
+<Custom17>
+<UIKey>
+<![CDATA[Általános felirat - árnyékoló]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-3978D471-068F-4DD5-9CCF-E9554CDC7FFD]]>
+</DBKey>
+<value>
+<![CDATA[árnyékoló]]>
+</value>
+</Custom17>
+<Custom18>
+<UIKey>
+<![CDATA[Általános felirat - menekülő ajtó]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-B58DF491-C481-444E-8690-2CF0C68769EC]]>
+</DBKey>
+<value>
+<![CDATA[menekülő ajtó]]>
+</value>
+</Custom18>
+<Custom19>
+<UIKey>
+<![CDATA[Általános felirat - esővíz elevezetés]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-2E0C83E0-40E1-4FEE-AED2-8A27671BF252]]>
+</DBKey>
+<value>
+<![CDATA[esővíz elvezetés]]>
+</value>
+</Custom19>
+<Custom20>
+<UIKey>
+<![CDATA[Project language]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-22173374-7B23-42CD-81C9-DFC495696785]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom20>
+<Custom21>
+<UIKey>
+<![CDATA[Project Name idegen nyelven]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-34995604-879C-4738-8987-B906CC53BFD3]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom21>
+<Custom22>
+<UIKey>
+<![CDATA[Project Status idegen nyelven]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-9A4887A2-6864-46CC-AF9F-ED2E21E85C4A]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom22>
+<Custom23>
+<UIKey>
+<![CDATA[Site Full Adress idegen nyelven]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-SITE-130A667A-35C1-4F49-AF7C-54230C6F0899]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom23>
+<Custom24>
+<UIKey>
+<![CDATA[Site Lot Number idegen nyelven]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-SITE-8267B14E-AEEB-4BA5-9D3C-58990EC3B21A]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom24>
+<Custom25>
+<UIKey>
+<![CDATA[Site Lot Number]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-SITE-B70EC8AC-E733-4FC8-B2B7-219861C417C1]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom25>
+<Custom26>
+<UIKey>
+<![CDATA[Általános felirat - utcai lámpa 1]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-2835D78D-F713-4F08-B271-174ACA5F267F]]>
+</DBKey>
+<value>
+<![CDATA[utcai lámpa 1]]>
+</value>
+</Custom26>
+<Custom27>
+<UIKey>
+<![CDATA[Általános felirat - utcai lámpa 2]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-AAD449E1-A00E-4977-B6ED-3563F78EC5F1]]>
+</DBKey>
+<value>
+<![CDATA[utcai lámpa 2]]>
+</value>
+</Custom27>
+<Custom28>
+<UIKey>
+<![CDATA[Általános felirat - utcai lámpa 3]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-60063D3B-C9CF-4B0B-A025-7EE8DFECFFE4]]>
+</DBKey>
+<value>
+<![CDATA[utcai lámpa 3]]>
+</value>
+</Custom28>
+<Custom29>
+<UIKey>
+<![CDATA[Általános felirat - utcai lámpa 4]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-45327343-AA94-4542-9EC3-ABE0AF14DE8D]]>
+</DBKey>
+<value>
+<![CDATA[utcai lámpa 4]]>
+</value>
+</Custom29>
+<Custom30>
+<UIKey>
+<![CDATA[Általános felirat - utcai lámpa 5]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-A260E792-4F32-40FD-9ACF-51358EF2E512]]>
+</DBKey>
+<value>
+<![CDATA[utcai lámpa 5]]>
+</value>
+</Custom30>
+<Custom31>
+<UIKey>
+<![CDATA[Általános felirat - hulladékgyűjtő 1]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-461BE053-C81F-47FC-ABDA-D3AEDB0CDE1D]]>
+</DBKey>
+<value>
+<![CDATA[hulladékgyűjtő 1]]>
+</value>
+</Custom31>
+<Custom32>
+<UIKey>
+<![CDATA[Általános felirat - hulladékgyűjtő 2]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-D8C1DCE2-F3E6-4B92-A09A-74CA496DE043]]>
+</DBKey>
+<value>
+<![CDATA[hulladékgyűjtő 2]]>
+</value>
+</Custom32>
+<Custom33>
+<UIKey>
+<![CDATA[Általános felirat - hulladékgyűjtő konténer]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-FBE88F42-129C-4BB9-88E4-BDC1F7DCEA38]]>
+</DBKey>
+<value>
+<![CDATA[hulladékgyűjtő konténer]]>
+</value>
+</Custom33>
+<Custom34>
+<UIKey>
+<![CDATA[Általános felirat - utcai szemetes]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-E123CDE7-FBDB-46CE-9951-427A235A6703]]>
+</DBKey>
+<value>
+<![CDATA[utcai szemetes]]>
+</value>
+</Custom34>
+<Custom35>
+<UIKey>
+<![CDATA[Általános felirat - hágcsó]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-A5C32CD6-72FB-4A3A-800B-206057F15F37]]>
+</DBKey>
+<value>
+<![CDATA[hágcsó]]>
+</value>
+</Custom35>
+<Custom36>
+<UIKey>
+<![CDATA[Általános felirat - támfal]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-40A6E554-9C76-4240-987E-D0685D5BE564]]>
+</DBKey>
+<value>
+<![CDATA[monolit vasbeton támfal, látszóbeton igényességű felülettel, vízzáró betonból, fedlap nélül, részletesen lásd a statikai tervekben]]>
+</value>
+</Custom36>
+<Custom37>
+<UIKey>
+<![CDATA[Általános felirat - ereszcsatorna]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-8D8CC9B7-73DD-494C-BC79-445CD3189B02]]>
+</DBKey>
+<value>
+<![CDATA[ereszcsatorna]]>
+</value>
+</Custom37>
+<Custom38>
+<UIKey>
+<![CDATA[Általános felirat - ereszcsatorna lefolyó]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-19C37226-69A3-4473-959E-B19A0B38E3A6]]>
+</DBKey>
+<value>
+<![CDATA[ereszcsatorna lefolyó]]>
+</value>
+</Custom38>
+<Custom39>
+<UIKey>
+<![CDATA[Általános felirat  - tetőösszefolyó]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-4C01876A-C1D1-42DA-9348-6AF9BE04F572]]>
+</DBKey>
+<value>
+<![CDATA[tetőösszefolyó]]>
+</value>
+</Custom39>
+<Custom40>
+<UIKey>
+<![CDATA[Általános felirat - tetőfelülvilágító kupola]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-61383D7F-206B-4126-98BE-6DD15E063D58]]>
+</DBKey>
+<value>
+<![CDATA[tetőfelülvilágító kupola]]>
+</value>
+</Custom40>
+<Custom41>
+<UIKey>
+<![CDATA[Általános felirat - tűzgát]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-BUILDING-71FEFDD9-49DF-4FBD-810E-4FD756D9F111]]>
+</DBKey>
+<value>
+<![CDATA[monolit vasbeton fűzgát statikai tervek szerint]]>
+</value>
+</Custom41>
+<Custom42>
+<UIKey>
+<![CDATA[Altitude Above Sea Level]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-0A4533A9-B647-472D-866B-F15CD702F606]]>
+</DBKey>
+<value>
+<![CDATA[±0,00 =]]>
+</value>
+</Custom42>
+<Custom43>
+<UIKey>
+<![CDATA[Építész vezető tervező neve]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-D63028FC-A081-470E-8B53-E5B3E0FC5DE0]]>
+</DBKey>
+<value>
+<![CDATA[<Építész vezető tervező>]]>
+</value>
+</Custom43>
+<Custom44>
+<UIKey>
+<![CDATA[Építész vezető tervező jogosultsági száma]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-2D8D8EB2-457B-4B81-8C80-B5FFF6AA743E]]>
+</DBKey>
+<value>
+<![CDATA[<Jogosultsági szám>]]>
+</value>
+</Custom44>
+<Custom45>
+<UIKey>
+<![CDATA[Projektvezető építész 1]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-1148CEF9-E2FE-43E5-86BC-E94ABD93EB18]]>
+</DBKey>
+<value>
+<![CDATA[Molnár Dávid]]>
+</value>
+</Custom45>
+<Custom46>
+<UIKey>
+<![CDATA[Projektvezető építész 2]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-4475EF58-1C1B-448D-901D-7B67B3A9BAB8]]>
+</DBKey>
+<value>
+<![CDATA[<Projektvezető építész 2>]]>
+</value>
+</Custom46>
+<Custom47>
+<UIKey>
+<![CDATA[Építész munkatárs 1]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-372DFE7B-8372-4593-85E7-32A5D3EAF048]]>
+</DBKey>
+<value>
+<![CDATA[Simon László]]>
+</value>
+</Custom47>
+<Custom48>
+<UIKey>
+<![CDATA[Építész munkatárs 2]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-B777EA0A-CF40-4155-8612-6E631BC4C005]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom48>
+<Custom49>
+<UIKey>
+<![CDATA[Építész munkatárs 3]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-38A7509A-4FD3-48B7-93F8-4341B47316F4]]>
+</DBKey>
+<value>
+<![CDATA[<Építész munkatárs 3>]]>
+</value>
+</Custom49>
+<Custom50>
+<UIKey>
+<![CDATA[Építész munkatárs 4]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-DA013763-F2D1-47C2-8C0B-42C043634CFE]]>
+</DBKey>
+<value>
+<![CDATA[<Építész munkatárs 4>]]>
+</value>
+</Custom50>
+<Custom51>
+<UIKey>
+<![CDATA[Építész munkatárs 5]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-B89B4F57-DA42-4B7E-B849-6CDEF59B2226]]>
+</DBKey>
+<value>
+<![CDATA[<Építész munkatárs 5>]]>
+</value>
+</Custom51>
+<Custom52>
+<UIKey>
+<![CDATA[Építész munkatárs 6]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-3E551514-E984-4E52-8173-E46151FD4257]]>
+</DBKey>
+<value>
+<![CDATA[<Építész munkatárs 6>]]>
+</value>
+</Custom52>
+<Custom53>
+<UIKey>
+<![CDATA[Építész munkatárs 7]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-922BDF67-B6A4-4163-BFD1-D7EEE6F89211]]>
+</DBKey>
+<value>
+<![CDATA[<Építész munkatárs 7>]]>
+</value>
+</Custom53>
+<Custom54>
+<UIKey>
+<![CDATA[Építész munkatárs 8]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-835C82D2-EA5B-4BD0-B603-D1D5AA284A99]]>
+</DBKey>
+<value>
+<![CDATA[<Építész munkatárs 8>]]>
+</value>
+</Custom54>
+<Custom55>
+<UIKey>
+<![CDATA[Építész munkatárs 9]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-BD888D30-9D95-4607-8391-601E352305F3]]>
+</DBKey>
+<value>
+<![CDATA[<Építész munkatárs 9>]]>
+</value>
+</Custom55>
+<Custom56>
+<UIKey>
+<![CDATA[Építész munkatárs 10]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-3C9C4AB6-8368-4DC5-AF5C-A070CD707D23]]>
+</DBKey>
+<value>
+<![CDATA[<Építész munkatárs 10>]]>
+</value>
+</Custom56>
+<Custom57>
+<UIKey>
+<![CDATA[Építész munkatárs 11]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-1DF24C50-67D9-40F5-BD75-CA323687B269]]>
+</DBKey>
+<value>
+<![CDATA[<Építész munkatárs 11>]]>
+</value>
+</Custom57>
+<Custom58>
+<UIKey>
+<![CDATA[Építész munkatárs 12]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-68824C37-8078-4637-9420-7CEE343BB292]]>
+</DBKey>
+<value>
+<![CDATA[<Építész munkatárs 12>]]>
+</value>
+</Custom58>
+<Custom59>
+<UIKey>
+<![CDATA[Építész munkatárs 13]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-70B6503C-8232-423A-A907-40C8021949D8]]>
+</DBKey>
+<value>
+<![CDATA[<Építész munkatárs 13>]]>
+</value>
+</Custom59>
+<Custom60>
+<UIKey>
+<![CDATA[Építész munkatárs 14]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-1AB59757-7031-4291-A23A-6A4506AF4985]]>
+</DBKey>
+<value>
+<![CDATA[<Építész munkatárs 14>]]>
+</value>
+</Custom60>
+<Custom61>
+<UIKey>
+<![CDATA[Építész munkatárs 15]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-20E18EC3-3160-47B2-9707-E22D1C0082BC]]>
+</DBKey>
+<value>
+<![CDATA[<Építész munkatárs 15>]]>
+</value>
+</Custom61>
+<Custom62>
+<UIKey>
+<![CDATA[Építtető]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CLIENT-94104150-6C49-4326-8C8D-9005F3D82FCD]]>
+</DBKey>
+<value>
+<![CDATA[SEFAG ERDÉSZETI ÉS FAIPARI ZRT.]]>
+</value>
+</Custom62>
+<Custom63>
+<UIKey>
+<![CDATA[Építtető - cím (utca, házszám)]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CLIENT-A15E97EF-64E8-46A3-80D8-61C387BBC425]]>
+</DBKey>
+<value>
+<![CDATA[Bajcsy-Zs. u. 21.]]>
+</value>
+</Custom63>
+<Custom64>
+<UIKey>
+<![CDATA[Építtető - város]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CLIENT-B0681060-2483-472C-905D-1F8C1C9173D2]]>
+</DBKey>
+<value>
+<![CDATA[Kapsovár]]>
+</value>
+</Custom64>
+<Custom65>
+<UIKey>
+<![CDATA[Építtető - irányítószám]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CLIENT-4DC61F88-A238-4FCD-B826-165E0DE8F945]]>
+</DBKey>
+<value>
+<![CDATA[7400]]>
+</value>
+</Custom65>
+<Custom66>
+<UIKey>
+<![CDATA[Építtető - ország]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CLIENT-C2725D0C-188E-4C0A-B0EA-0570DA5322DF]]>
+</DBKey>
+<value>
+<![CDATA[Magyarország]]>
+</value>
+</Custom66>
+<Custom67>
+<UIKey>
+<![CDATA[Belsőépítész vezető tervező neve]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-61ED1AB6-7954-40CA-A919-07A6D7C0F356]]>
+</DBKey>
+<value>
+<![CDATA[<Belsőépítész vezető tervező>]]>
+</value>
+</Custom67>
+<Custom68>
+<UIKey>
+<![CDATA[Projektvezető belsőépítész 1]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-1A957286-298D-462D-9DC0-9943B38799D5]]>
+</DBKey>
+<value>
+<![CDATA[Csöntör Csilla]]>
+</value>
+</Custom68>
+<Custom69>
+<UIKey>
+<![CDATA[Projektvezető belsőépítész 2]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-D6C9F182-06EE-4177-831F-7D49C92005C1]]>
+</DBKey>
+<value>
+<![CDATA[Armen Armaganjan]]>
+</value>
+</Custom69>
+<Custom70>
+<UIKey>
+<![CDATA[Belsőépítész munkatárs 1]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-AB4ECD97-3B9F-4756-81A3-2468A6CC4E97]]>
+</DBKey>
+<value>
+<![CDATA[Bartha Olivér]]>
+</value>
+</Custom70>
+<Custom71>
+<UIKey>
+<![CDATA[Belsőépítész munkatárs 2]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-DEB8EB76-E25E-445F-BCEB-42897E3C41E2]]>
+</DBKey>
+<value>
+<![CDATA[Bern Zsuzsanna]]>
+</value>
+</Custom71>
+<Custom72>
+<UIKey>
+<![CDATA[Belsőépítész munkatárs 3]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-93898D80-C58E-43DA-9CD7-D4464949C767]]>
+</DBKey>
+<value>
+<![CDATA[Lencsés Noémi]]>
+</value>
+</Custom72>
+<Custom73>
+<UIKey>
+<![CDATA[Belsőépítész munkatárs 4]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-31831B1D-A540-41F3-86E5-BCF90B9A136F]]>
+</DBKey>
+<value>
+<![CDATA[Németh Bettina]]>
+</value>
+</Custom73>
+<Custom74>
+<UIKey>
+<![CDATA[Belsőépítész munkatárs 5]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-04BDDCD8-A085-445C-815E-63E709B43C59]]>
+</DBKey>
+<value>
+<![CDATA[Tóth Bence]]>
+</value>
+</Custom74>
+<Custom75>
+<UIKey>
+<![CDATA[Belsőépítész munkatárs 6]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-06C961EC-60A2-463D-8B98-CE87988E93B9]]>
+</DBKey>
+<value>
+<![CDATA[<Belsőépítész munkatárs 6>]]>
+</value>
+</Custom75>
+<Custom76>
+<UIKey>
+<![CDATA[Belsőépítész munkatárs 7]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-9B32C4B6-9EEF-4EA9-A1DF-2CCC12D1FAA7]]>
+</DBKey>
+<value>
+<![CDATA[<Belsőépítész munkatárs 7>]]>
+</value>
+</Custom76>
+<Custom77>
+<UIKey>
+<![CDATA[Belsőépítész munkatárs 8]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-0B4A1395-6640-48D5-969D-DB23CAED3F5F]]>
+</DBKey>
+<value>
+<![CDATA[<Belsőépítész munkatárs 8>]]>
+</value>
+</Custom77>
+<Custom78>
+<UIKey>
+<![CDATA[Belsőépítész munkatárs 9]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-D87661E9-D8FF-448B-A6B2-E554ABF26034]]>
+</DBKey>
+<value>
+<![CDATA[<Belsőépítész munkatárs 9>]]>
+</value>
+</Custom78>
+<Custom79>
+<UIKey>
+<![CDATA[Belsőépítész munkatárs 10]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-FD1E287F-E030-45D4-A9DE-C11DE96609F7]]>
+</DBKey>
+<value>
+<![CDATA[<Belsőépítész munkatárs 10>]]>
+</value>
+</Custom79>
+<Custom80>
+<UIKey>
+<![CDATA[Tájépítész vezető tervező neve]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-515C20C0-7DA0-4FC0-BD5D-0BE45E1BE834]]>
+</DBKey>
+<value>
+<![CDATA[<Tájépítész vezető>]]>
+</value>
+</Custom80>
+<Custom81>
+<UIKey>
+<![CDATA[Tájépítész vezető tervező jogosultsági száma]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-5D1CEE4F-A949-4B46-A231-B2126F127A24]]>
+</DBKey>
+<value>
+<![CDATA[<Tájépítész vezető szám>]]>
+</value>
+</Custom81>
+<Custom82>
+<UIKey>
+<![CDATA[Projektvezető tájépítész 1]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-ABDEAB36-2A4F-4FFD-92C9-F21ABDBB1454]]>
+</DBKey>
+<value>
+<![CDATA[<Projektvezető tájépítész1>]]>
+</value>
+</Custom82>
+<Custom83>
+<UIKey>
+<![CDATA[Projektvezető tájépítész 2]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-E81134FA-5200-4B66-A7D8-0C1F74546AC9]]>
+</DBKey>
+<value>
+<![CDATA[<Projektvezető tájépítész 2>]]>
+</value>
+</Custom83>
+<Custom84>
+<UIKey>
+<![CDATA[Tájépítész munkatárs 1]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-A6988434-58AC-4293-AE68-C295ADDE4D70]]>
+</DBKey>
+<value>
+<![CDATA[<Tájépítész munkatárs 1>]]>
+</value>
+</Custom84>
+<Custom85>
+<UIKey>
+<![CDATA[Tájépítész munkatárs 2]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-D4CBD1D8-6E65-4FB4-840C-FABE5B951B33]]>
+</DBKey>
+<value>
+<![CDATA[<Tájépítész munkatárs 2>]]>
+</value>
+</Custom85>
+<Custom86>
+<UIKey>
+<![CDATA[Tájépítész munkatárs 3]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-C6A1E74C-942B-4AA6-AA00-1952A1EE63C3]]>
+</DBKey>
+<value>
+<![CDATA[<Tájépítész munkatárs 3>]]>
+</value>
+</Custom86>
+<Custom87>
+<UIKey>
+<![CDATA[Tájépítész munkatárs 4]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-BB038A00-B040-4AB2-B6C7-F77CBACA3FFA]]>
+</DBKey>
+<value>
+<![CDATA[<Tájépítész munkatárs 4>]]>
+</value>
+</Custom87>
+<Custom88>
+<UIKey>
+<![CDATA[Tájépítész munkatárs 5]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-CONTACT-11F8C933-8B2D-4BFB-AA7D-6949501FBC17]]>
+</DBKey>
+<value>
+<![CDATA[<Tájépítész munkatárs 5>]]>
+</value>
+</Custom88>
+<Custom89>
+<UIKey>
+<![CDATA[Project Status Code]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-71E9FB8A-6893-4205-95BF-3BA9658B9D38]]>
+</DBKey>
+<value>
+<![CDATA[<####>]]>
+</value>
+</Custom89>
+<Custom90>
+<UIKey>
+<![CDATA[Survey Company Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-03B4AF22-C085-4499-9E7A-5E322E8489FE]]>
+</DBKey>
+<value>
+<![CDATA[Lima Design Kft.]]>
+</value>
+</Custom90>
+<Custom91>
+<UIKey>
+<![CDATA[Survey Responsible Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-61034D80-84F0-4A5A-BA73-ADF24B043268]]>
+</DBKey>
+<value>
+<![CDATA[Dormán Bertalan]]>
+</value>
+</Custom91>
+<Custom92>
+<UIKey>
+<![CDATA[CAD Drafter - Company Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-C179E160-3C5D-41A3-8125-1EEFD66B6BB7]]>
+</DBKey>
+<value>
+<![CDATA[Lima Design Kft.]]>
+</value>
+</Custom92>
+<Custom93>
+<UIKey>
+<![CDATA[CAD Drafter Responsible Name]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-PROJECT-3F27A8D0-6FBE-4EF8-A3AA-8C0D4D61DDAE]]>
+</DBKey>
+<value>
+<![CDATA[Karli Gyula Sámuel]]>
+</value>
+</Custom93>
+<Custom94>
+<UIKey>
+<![CDATA[OM]]>
+</UIKey>
+<DBKey>
+<![CDATA[autotext-SITE-D1A8B19C-00D2-4D00-898E-C98BA30E26A8]]>
+</DBKey>
+<value>
+<![CDATA[203060/011 ]]>
+</value>
+</Custom94>
+</CustomKeys>
+</ProjectInfo>
