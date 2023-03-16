@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProjectInfo>
+ <Version val="3"/>
+ <FixKeys val="1">
+  <Fix1>
+   <UIKey><![CDATA[Project Name]]></UIKey>
+   <DBKey><![CDATA[PROJECTNAME]]></DBKey>
+   <value><![CDATA[<####>]]></value>
+  </Fix1>
+ </FixKeys>
+ <CustomKeys val="0"/>
+</ProjectInfo>
