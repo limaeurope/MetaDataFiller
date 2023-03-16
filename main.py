@@ -73,8 +73,8 @@ def createXML(p_iRow="14", p_sXLSPath="C:\\Users\\gyula.karli\\OneDrive - LIMA D
                ]
 
     customKeys = [CustomKey("CAD Drafter Responsible Name", "autotext-PROJECT-3F27A8D0-6FBE-4EF8-A3AA-8C0D4D61DDAE", sourceRow[_F_].value),
-                  CustomKey("CAD Drafter - Company Name", "autotext-PROJECT-C179E160-3C5D-41A3-8125-1EEFD66B6BB7", sourceRow[_S_].value),
-                  CustomKey("OM", "autotext-SITE-D1A8B19C-00D2-4D00-898E-C98BA30E26A8", "Lima Design Kft."),
+                  CustomKey("CAD Drafter - Company Name", "autotext-PROJECT-C179E160-3C5D-41A3-8125-1EEFD66B6BB7", "Lima Design Kft."),
+                  CustomKey("OM", "autotext-SITE-D1A8B19C-00D2-4D00-898E-C98BA30E26A8", sourceRow[_S_].value),
                   CustomKey("Survey Company Name", "autotext-PROJECT-03B4AF22-C085-4499-9E7A-5E322E8489FE", "Lima Design Kft."),
                   CustomKey("Survey Responsible Name", "autotext-PROJECT-61034D80-84F0-4A5A-BA73-ADF24B043268", "Dormán Bertalan"),
                   ]
